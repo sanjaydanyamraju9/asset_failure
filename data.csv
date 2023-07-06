@@ -1,0 +1,6 @@
+Refrigerator ID,Age,Maintenance History,Usage Patterns,Environmental Conditions,Purchase Date,Failure Date
+1,24,Good,Low,Normal,2019-01-01,2021-06-30
+2,36,Average,Medium,Humid,2018-05-15,2022-01-10
+3,48,Good,High,Extreme,2020-03-12,-
+4,60,Poor,Medium,Normal,2017-11-20,2019-09-05
+5,30,Good,Low,Normal,2019-08-05,-
